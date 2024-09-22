@@ -34,7 +34,7 @@ sudo rm -rf /var/www/html
 sudo ln -s /workspaces/phpbb/phpBB /var/www/html
 
 # Install our theme
-sudo ln -s /workspaces/phpbb-theme-prosilver_se /var/www/html/phpbb/phpBB/styles/prosilver_se
+sudo ln -s /workspaces/phpbb-theme-prosilver_se /var/www/html/styles/prosilver_se
 
 # Copy phpBB config
 echo "[Codespaces] Copy phpBB configuration"
