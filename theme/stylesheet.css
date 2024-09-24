@@ -109,3 +109,7 @@ li.row.bg3:hover {
 		width: auto;
 	}
 }
+
+.rank-img img {
+	width: 100px;
+}
