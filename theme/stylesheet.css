@@ -110,6 +110,7 @@ li.row.bg3:hover {
 	}
 }
 
-.rank-img img {
+.rank-img img,
+.profile-rank img {
 	width: 100px;
 }
