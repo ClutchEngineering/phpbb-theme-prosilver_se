@@ -137,8 +137,24 @@ h1, h2, h3, h4, h5, h6 {
 	-moz-osx-font-smoothing: grayscale;
 }
 
-h1 {
+.site-description {
+	margin-top: 1em;
+}
+
+.site-description h1,
+.site-description p {
 	font-family: ui-rounded, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-size: 3em;
+}
+
+.site-description h1 {
+	margin-top: 0;
+}
+
+.site-description p {
+	font-size: 1.4em;
+	font-weight: 700;
+	margin-bottom: 0;
 }
 
 .content p {
