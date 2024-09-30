@@ -129,3 +129,14 @@ li.row.bg3:hover {
 .profile-rank img {
 	width: 100px;
 }
+
+body,
+.postbody h3 {
+	font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.content p {
+	font-weight: 500;
+}
