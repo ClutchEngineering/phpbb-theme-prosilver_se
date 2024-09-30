@@ -54,7 +54,7 @@ body.simple {
 }
 
 .copyright {
-	color: rgb(161, 161, 170);
+	color: rgb(113 113 122);
 }
 
 .copyright a {
@@ -62,9 +62,6 @@ body.simple {
 }
 
 @media (prefers-color-scheme:dark) {
-	.copyright {
-		color: rgb(82, 82, 91);
-	}
 	.copyright a {
 		color: white !important;
 	}	
