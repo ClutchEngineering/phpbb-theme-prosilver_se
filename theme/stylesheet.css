@@ -53,8 +53,21 @@ body.simple {
 	background-repeat: repeat-x;
 }
 
+.copyright {
+	color: rgb(161, 161, 170);
+}
+
 .copyright a {
 	color: #000000 !important;
+}
+
+@media (prefers-color-scheme:dark) {
+	.copyright {
+		color: rgb(82, 82, 91);
+	}
+	.copyright a {
+		color: white !important;
+	}	
 }
 
 li.row {
